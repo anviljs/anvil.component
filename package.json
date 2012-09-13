@@ -2,7 +2,7 @@
   "author": "Alex Robson <alex@sharplearningcurve.com> (http://sharplearningcurve.com)",
   "name": "anvil.component",
   "description": "Adds component support to anvil",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "git://github.com/arobson/anvil.component.git"
