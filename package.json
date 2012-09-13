@@ -1,0 +1,22 @@
+{
+  "author": "Alex Robson <alex@sharplearningcurve.com> (http://sharplearningcurve.com)",
+  "name": "anvil.component",
+  "description": "Adds component support to anvil",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/arobson/anvil.component.git"
+  },
+  "engines": {
+    "node": "~0.8.3"
+  },
+  "main": "./lib/component.js",
+  "dependencies": {
+  },
+  "devDependencies": { 
+    "anvil.js": ">=0.8.5",
+    "should": "~1.1"
+  },
+  "optionalDependencies": {},
+  "keywords": [ "anvil", "component", "bower" ]
+}
